@@ -1,1 +1,3 @@
-# Iceberg-Tracking-Beacon
+# Cryologger Ice Tracking Beacon
+
+The Cryologger is a low-cost, robust, and user-friendly iceberg and ice island drift tracking beacon based on the open-source electronics Arduino platform. Constructed using off-the-shelf components, the Cryologger does not require specialized tools or expertise to build and can be easily modified to meet individual application requirements. The design is planned for extended deployments of one year or more and is capable of providing long term measurements of multiple parameters, including GPS position, temperature, pressure, pitch, roll, tilt-compensated heading and battery voltage. Data are transmitted over the Iridium satellite network at specified intervals, which can be remotely updated based on the desired sampling frequency.
